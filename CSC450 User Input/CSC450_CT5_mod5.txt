@@ -1,0 +1,7 @@
+Please be sure to append your data to this text file.
+
+If these first three lines are deleted, then your program is not functioning as expected.
+
+I really enjoy learning C++. I look forward to improving my skills in programming. 
+This is my second test look at how the lines continue to add to the CSC450-mod5 txt file
+This is my thrid time appending this file.
